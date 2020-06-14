@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>Paket Fun Rafting </title>
+    <url>newbuy.php?items_id=27</url>
+  </link>
+  <link>
+    <title>Paket Extreme Rafting </title>
+    <url>newbuy.php?items_id=28</url>
+  </link>
+
+</pages>
